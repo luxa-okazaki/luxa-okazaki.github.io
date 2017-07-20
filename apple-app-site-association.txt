@@ -1,0 +1,11 @@
+{
+ "applinks":{
+  "apps":[],
+  "details":[
+   {
+    "appID":"33G9MYQ9X7.jp.luxa.lx-ios",
+    "paths":["*"]
+   }
+  ]
+ }	
+}
